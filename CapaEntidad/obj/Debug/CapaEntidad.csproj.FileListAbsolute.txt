@@ -1,0 +1,6 @@
+C:\Users\Aimar\source\repos\SistemaTiendaMini\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Aimar\source\repos\SistemaTiendaMini\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Aimar\source\repos\SistemaTiendaMini\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Aimar\source\repos\SistemaTiendaMini\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Aimar\source\repos\SistemaTiendaMini\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Aimar\source\repos\SistemaTiendaMini\CapaEntidad\obj\Debug\CapaEntidad.pdb
